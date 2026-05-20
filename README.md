@@ -1,2 +1,37 @@
-# CodeAlpha_NetworkSniffer
-Basic Network Sniffer using Scapy is a Python project that captures live network packets and displays source IP, destination IP, protocol type (TCP/UDP/ICMP), and payload data. It helps users understand packet flow, network protocols, and packet analysis using Scapy. Developed in Python using VS Code for educational purposes.
+# Basic Network Sniffer using Scapy
+
+## Overview
+This project is a simple Python-based Network Sniffer developed using the Scapy library. It captures live network packets and displays important information such as source IP address, destination IP address, protocol type, and packet payload.
+
+The project helps in understanding how network communication works and how packets travel through a network.
+
+---
+
+## Features
+- Capture live network packets
+- Display Source IP Address
+- Display Destination IP Address
+- Detect protocols like TCP, UDP, and ICMP
+- Show packet payload data
+- Beginner-friendly implementation
+
+---
+
+## Technologies Used
+- Python
+- Scapy
+- VS Code
+
+---
+
+## Requirements
+Install the following before running the project:
+
+- Python
+- VS Code
+- Scapy library
+
+Install Scapy using:
+
+```bash
+pip install scapy
