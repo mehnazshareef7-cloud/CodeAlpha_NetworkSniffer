@@ -1,4 +1,7 @@
-# Basic Network Sniffer using Scapy
+# Basic Network Sniffer using Scapy Screenshot 2026-05-19 160850.png
+## Project Screenshot
+
+![Screenshot 2026-05-19 160850.png](Screenshot 2026-05-19 160850.png)
 
 ## Overview
 This project is a simple Python-based Network Sniffer developed using the Scapy library. It captures live network packets and displays important information such as source IP address, destination IP address, protocol type, and packet payload.
